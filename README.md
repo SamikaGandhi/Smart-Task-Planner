@@ -84,6 +84,17 @@ UI styling comes from `static/styles.css`.
 
 ---
 
+##  Video Demo
+Link - https://drive.google.com/file/d/1nyENDo3pdf5fSS6BmFtQ5vyDyAwb0M2c/view?usp=sharing
+
+
+https://github.com/user-attachments/assets/1e6bd914-31cd-40c2-9059-52e9fee2406b
+
+
+
+
+---
+
 
 ## 🖼️ Screenshots
 
@@ -139,6 +150,7 @@ Set environment variables in the platform dashboard.
 ## 📜 License
 
 This project is provided under the **MIT License** — feel free to modify and use it!
+
 
 
 

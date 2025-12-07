@@ -116,8 +116,14 @@ UI styling comes from `static/styles.css`.
 ```
 screenshots/
 │ index.png
+<img width="927" height="543" alt="image" src="https://github.com/user-attachments/assets/a060ebad-bbaf-4b41-a333-7a6c6573e107" />
+
 │ result.png
+<img width="1960" height="1872" alt="127 0 0 1_8000_generate" src="https://github.com/user-attachments/assets/0857014a-fee9-42a7-bd1e-aa150359c5e1" />
+
 │ plans.png
+<img width="927" height="543" alt="Screenshot 2025-12-07 121618" src="https://github.com/user-attachments/assets/c3d25e5b-1db0-46f8-9ec4-fad9ec681f81" />
+
 ```
 
 ---
@@ -150,4 +156,5 @@ Set environment variables in the platform dashboard.
 ## 📜 License
 
 This project is provided under the **MIT License** — feel free to modify and use it!
+
 

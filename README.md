@@ -25,32 +25,6 @@ Plans are saved locally using SQLite and rendered using Jinja2 templates.
 
 ---
 
-## 📂 Project Structure
-
-
-smart-task-planner-fastAPI/
-│
-├── app/
-│   ├── __init__.py
-│   ├── main.py          # FastAPI entry point
-│   ├── planner.py       # AI planner logic (OpenAI or custom logic)
-│   ├── db.py            # SQLite database setup + CRUD operations
-│   ├── schemas.py       # Pydantic schemas
-│   │
-│   ├── templates/       # Jinja2 templates
-│   │    ├── index.html
-│   │    ├── result.html
-│   │    └── plans.html
-│   │
-│   └── static/
-│        └── styles.css  # Modern clean UI styling
-│
-├── requirements.txt     # Python dependencies
-├── .env                 # Environment variables
-└── README.md            # Project documentation
-
----
-
 ## ⚙️ Environment Variables
 
 Create a `.env` file in the project root:
@@ -165,6 +139,7 @@ Set environment variables in the platform dashboard.
 ## 📜 License
 
 This project is provided under the **MIT License** — feel free to modify and use it!
+
 
 
 
